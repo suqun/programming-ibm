@@ -1,7 +1,9 @@
 JVM 并发性: 使用 Akka 执行异步操作
 ============
 
-[原文地址](http://www.ibm.com/developerworks/cn/java/j-jvmc5/#listing5)
+长期以来，actor 模型 既被用作分析并发程序的理论基础，也被用作实现并发程序的实践方法。actor 模型基于一种通过消息进行通信的简单 actor 实体结构，让您能够轻松地构建应用程序来实现高并发性和可伸缩性。下面我们将介绍 actor 模型并开始在 Scala 或 Java™ 中使用该模型的 Akka 实现。
+
+[原文地址](http://www.ibm.com/developerworks/cn/java/j-jvmc5)
 
 The [fifth article in my JVM Concurrency series](http://www.ibm.com/developerworks/library/j-jvmc5/index.html) on IBM
 developerWorks, "Acting asynchronously with Akka", gives an introduction to Akka programming using
